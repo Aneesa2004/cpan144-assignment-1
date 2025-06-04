@@ -1,0 +1,23 @@
+.nav {
+  background-color: #0070f3; /* nice blue */
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.li {
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.li:hover {
+  text-decoration: underline;
+}

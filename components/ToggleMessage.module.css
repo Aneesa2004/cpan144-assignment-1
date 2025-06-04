@@ -1,0 +1,23 @@
+.button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #005bb5;
+}
+
+.message {
+  margin-top: 15px;
+  color: #333;
+  font-size: 16px;
+  background-color: #d0f0fd;
+  padding: 10px;
+  border-radius: 4px;
+}
